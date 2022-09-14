@@ -1,0 +1,27 @@
+{
+  "name": "subpix",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/velsreis/SubPix.git"
+  },
+  "author": "velsreis & sozua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/velsreis/SubPix/issues"
+  },
+  "homepage": "https://github.com/velsreis/SubPix#readme",
+  "dependencies": {
+    "tmi.js": "^1.8.5",
+    "vite-node": "^0.23.2"
+  },
+  "devDependencies": {
+    "@types/tmi.js": "^1.8.1",
+    "typescript": "^4.8.3"
+  }
+}

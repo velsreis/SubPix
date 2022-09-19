@@ -9,7 +9,7 @@ Uma breve descrição sobre o que esse projeto faz e para quem ele é
 Clone o projeto
 
 ```bash
-  git clone https://link-para-o-projeto
+  git clone https://github.com/velsreis/SubPix.git
 ```
 
 Entre no diretório do projeto
@@ -38,7 +38,7 @@ Inicie o servidor
 
 ## Autores
 
-- [@velsreis](https://www.github.com/velsreis)  [@sozua](https://www.github.com/sozua)
+- [@velsreis](https://www.github.com/velsreis)  [@sozua](https://www.github.com/sozua) [@brinopng](https://www.github.com/brinopng) 
 
 
 ## Referência
